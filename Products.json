@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+          "id": 1,
+          "imageUrl": "https://cdn-icons-png.flaticon.com/512/609/609512.png",
+          "name": "Guitar",
+          "count": 5,
+          "size": {
+              "width": 200,
+              "height": 200
+          },
+          "weight": "7000g",
+          "comments": ["CommentModel", "CommentModel"]
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/microphone.png",
+          "name": "Microphone",
+          "count": 10,
+          "size": {
+              "width": 200,
+              "height": 200
+          },
+          "weight": "500g",
+          "comments": ["CommentModel", "CommentModel"]
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://cdn-icons-png.flaticon.com/512/683/683940.png",
+          "name": "Drums",
+          "count": 2,
+          "size": {
+              "width": 200,
+              "height": 200
+          },
+          "weight": "12000g",
+          "comments": ["CommentModel", "CommentModel"]
+        },
+        {
+          "id": 4,
+          "imageUrl": "https://cdn1.iconfinder.com/data/icons/gemicon-isometric-music/63/Piano-512.png",
+          "name": "Piano",
+          "count": 4,
+          "size": {
+              "width": 1000,
+              "height": 100
+          },
+          "weight": "2000g",
+          "comments": ["CommentModel", "CommentModel"]
+        }
+      ]
+}
